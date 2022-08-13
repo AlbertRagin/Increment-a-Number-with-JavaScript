@@ -1,0 +1,2 @@
+const quotient = 66 / 33;
+// so the const now is 2
